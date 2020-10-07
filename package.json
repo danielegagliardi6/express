@@ -20,6 +20,6 @@
   "homepage": "https://github.com/danielegagliardi6/express#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "netlify-lambda": "^1.6.3",
+    "netlify-lambda": "^1.6.3"
   }
 }
